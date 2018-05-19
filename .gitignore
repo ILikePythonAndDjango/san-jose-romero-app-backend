@@ -103,5 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# CUSTOM IGONORE
 # settings file
 *.ini
+
+# idea stuff
+.idea
